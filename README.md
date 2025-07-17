@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranab1234567" alt="pranab1234567" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+### 👨‍💻 About Me
+- 🔭 I’m currently building AI projects & preparing for **GATE CSE 2026**
+- 🌱 I’m learning **Machine Learning, NLP, Deep Learning, and Generative AI**
+- 💡 Exploring the intersection of **AI + Product Engineering + Research**
+- 👯 I’m looking to collaborate on **AI for Education, Healthcare & Society**
+- 🧠 Passionate about **solving real-world problems** using AI
 
 - 📫 How to reach me **pranabmahalik5@gmail.com**
 
