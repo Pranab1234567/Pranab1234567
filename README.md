@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranab1234567&show_icons=true&locale=en" alt="pranab1234567" /></p>
 
 
-
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
