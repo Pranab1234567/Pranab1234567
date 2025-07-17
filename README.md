@@ -29,3 +29,11 @@
 
 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
