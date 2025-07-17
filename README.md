@@ -54,3 +54,84 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50" alt="scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+#### 👨‍💻 Programming & Scripting
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash" />
+</p>
+
+#### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Seaborn_logo.svg" width="60" height="30" alt="Seaborn" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="60" height="30" alt="Matplotlib" />
+</p>
+
+#### 🤖 Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="45" height="45" alt="XGBoost" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/LightGBM_logo.svg" width="60" height="30" alt="LightGBM" />
+</p>
+
+#### 🧠 Deep Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+  <img src="https://keras.io/img/logo.png" width="45" height="45" alt="Keras" />
+</p>
+
+#### 🔮 Generative AI / LLMs
+<p align="left">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face" />
+  <img src="https://seeklogo.com/images/L/langchain-logo-6E4ADFE3DF-seeklogo.com.png" width="45" height="45" alt="LangChain" />
+  <img src="https://langraph.com/logo.svg" width="45" height="45" alt="LangGraph" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/OpenAI_Logo.svg" width="45" height="45" alt="OpenAI" />
+</p>
+
+#### 🔧 Model Deployment / MLOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
+  <img src="https://mlflow.org/images/logo.svg" width="60" height="30" alt="MLflow" />
+  <img src="https://dvc.org/img/logo.svg" width="60" height="30" alt="DVC" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/FastAPI_logo.svg" width="60" height="30" alt="FastAPI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="45" height="45" alt="Flask" />
+</p>
+
+#### ☁️ Cloud & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45" alt="Heroku" />
+</p>
+
+#### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+</p>
+
+
